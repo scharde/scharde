@@ -19,22 +19,22 @@ Here are some ideas to get you started:
 
 <!-- ![banner](./images/optimized-banner-inverted.jpg) -->
 
-## I'm an Electronics and Communication Engineer from Bangalore, India.
+## A passionate software developer with 6+ years of experience
 
-- 🔭 I'm currently working on [Data Structures and Algorithms][course]
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love anime 🍿
+- 🌱 I am a FullStack developer works on DotNet as a backend and React as a frontend technologies
+- 🔭 I'm currently working with Tech Mahindra company for Microsoft client
+- 👯 I have work on developing applications from end to end.
+- 🥅 2022 Goals: Learning Azure cloud platform
+- 📫 How to reach me: <a href="scharde20293@gmail.com" target="_blank">scharde20293@gmail.com</a>
 
 ### :dizzy: Connect on Networks
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/milind--mishra/">
+  <a href="https://www.linkedin.com/in/scharde20/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank"/>
   </a>&ensp;
 
-  <a href="https://twitter.com/dryruncatch/">
+  <!-- <a href="https://twitter.com/dryruncatch/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" target="_blank"/>
   </a>&ensp;
 
@@ -52,73 +52,77 @@ Here are some ideas to get you started:
   
   <a href="https://www.youtube.com/milindmishra">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" target="_blank"/>
-  </a>&ensp;
+  </a>&ensp; -->
 
 </div>
 
-### :zap: Recent GitHub Activity
+<!-- ### :zap: Recent GitHub Activity -->
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#73](https://github.com/thatbeautifuldream/java-dsa-bootcamp/issues/73) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+<!-- 1. 🗣 Commented on [#73](https://github.com/thatbeautifuldream/java-dsa-bootcamp/issues/73) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 2. 🎉 Merged PR [#71](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/71) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 3. 🎉 Merged PR [#70](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/70) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 4. 🎉 Merged PR [#68](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/68) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
-5. 🎉 Merged PR [#67](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/67) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
+5. 🎉 Merged PR [#67](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/67) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp) -->
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&theme=tokyonight&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thatbeautifuldream&theme=tokyonight&show_icons=true" />
-  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=thatbeautifuldream&theme=github" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=scharde&theme=tokyonight&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=scharde&theme=tokyonight&show_icons=true" />
+  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=scharde&theme=github" />
 </div>
 
-### 📺 Latest [YouTube][youtube] Videos
+<!-- ### 📺 Latest [YouTube][youtube] Videos
 
 <!-- YOUTUBE:START -->
 
-- [Blogging with Jekyll &amp; GitHub Pages](https://www.youtube.com/watch?v=MqCMs8712SI)
+<!-- - [Blogging with Jekyll &amp; GitHub Pages](https://www.youtube.com/watch?v=MqCMs8712SI)
 - [The noobs guide to Git &amp; GitHub | Version Control Systems](https://www.youtube.com/watch?v=4eUZnxUd228)
 - [L-03 : C/C++ Basic Concepts - II | Data Structures and Algorithms](https://www.youtube.com/watch?v=-TJPgldrNFY)
 - [L-02 : Basic C/C++ Concepts - I | Data Structures and Algorithms](https://www.youtube.com/watch?v=A0Qb6pvUKhE)
-- [L-01 : Basic DSA Overview | Data Structures and Algorithms](https://www.youtube.com/watch?v=likT4uthnU0)
+- [L-01 : Basic DSA Overview | Data Structures and Algorithms](https://www.youtube.com/watch?v=likT4uthnU0) -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...][youtube]
+➡️ [more videos...][youtube] -->
 
 ### Work Related
 
 <details>
 <summary>🖇 Résumé</summary>
-  <img src="https://user-images.githubusercontent.com/28717686/155116302-2ef43977-f178-4e1b-b7a8-6b1dc7dd6ff7.png" alt="resume" >
+  <a href="https://www.linkedin.com/in/scharde20/">
+    [embed]http://example.com/file.pdf[/embed]
+  </a>&ensp;
+  <!-- <img src="https://user-images.githubusercontent.com/28717686/155116302-2ef43977-f178-4e1b-b7a8-6b1dc7dd6ff7.png" alt="resume" > -->
+  
 </b></details>
 
-<details>
+<!-- <details>
     <summary>📊 Coding Activity </summary>
       <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/b1ac7176-55f8-446f-b73b-38c12d54c734.png" /></a>
-</br></details>
+</br></details> -->
 
 ### 🧠 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Higher Order Functions - &lpar;II&rpar; &amp; Beyond ⚡️](https://milindmishra.me/higher-order-functions-ii-and-beyond)
+<!-- - [Higher Order Functions - &lpar;II&rpar; &amp; Beyond ⚡️](https://milindmishra.me/higher-order-functions-ii-and-beyond)
 - [Js Concepts 💊](https://milindmishra.me/js-concepts)
 - [👑 Higher Order Functions &lpar;Part 1&rpar;](https://milindmishra.me/higher-order-functions-part-1)
-- [Getting Started 🔥](https://milindmishra.me/getting-started-js)
+- [Getting Started 🔥](https://milindmishra.me/getting-started-js) -->
 <!-- BLOG-POST-LIST:END -->
 
-⚡️ [read more here...](https://milindmishra.me/)
+<!-- ⚡️ [read more here...](https://milindmishra.me/) -->
 
 <div align="center">
-  <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=thatbeautifuldream" />
+  <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=scharde" />
 </div>
 
-[website]: https://thatbeautifuldream.github.io/
+<!-- [website]: https://thatbeautifuldream.github.io/
 [twitter]: https://twitter.com/dryruncatch
 [youtube]: https://youtube.com/milindmishra
 [instagram]: https://instagram.com/that_beautifuldream
 [linkedin]: https://linkedin.com/in/milind--mishra
-[course]: https://github.com/thatbeautifuldream/pepcoding-dsa
+[course]: https://github.com/thatbeautifuldream/pepcoding-dsa -->
