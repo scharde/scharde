@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 - [L-01 : Basic DSA Overview | Data Structures and Algorithms](https://www.youtube.com/watch?v=likT4uthnU0) -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...][youtube] -->
+<!-- ➡️ [more videos...][youtube] --> -->
 
 ### Work Related
 
