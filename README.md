@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **scharde/scharde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I am Sagar Charde</h1>
 
 <!-- ![banner](./images/optimized-banner-inverted.jpg) -->
 
@@ -92,11 +90,11 @@ Here are some ideas to get you started:
 
 <details>
 <summary>🖇 Résumé</summary>
-  <a href="https://www.linkedin.com/in/scharde20/">
-    [embed]http://example.com/file.pdf[/embed]
-  </a>&ensp;
+  <a href="SagarCharde_Profile.pdf" download>SagarCharde_Profile.pdf
+</a>
+
   <!-- <img src="https://user-images.githubusercontent.com/28717686/155116302-2ef43977-f178-4e1b-b7a8-6b1dc7dd6ff7.png" alt="resume" > -->
-  
+
 </b></details>
 
 <!-- <details>
@@ -104,7 +102,7 @@ Here are some ideas to get you started:
       <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/b1ac7176-55f8-446f-b73b-38c12d54c734.png" /></a>
 </br></details> -->
 
-### 🧠 Blog posts
+<!-- ### 🧠 Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
 
