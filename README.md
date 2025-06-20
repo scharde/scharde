@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 
 <!-- ![banner](./images/optimized-banner-inverted.jpg) -->
 
-## A passionate software developer with 6+ years of experience
+## A passionate software developer with 10+ years of experience
 
 - 🌱 I am a FullStack developer works on DotNet as a backend and React as a frontend technologies
-- 🔭 I'm currently working with Tech Mahindra company for Microsoft client
-- 👯 I have work on developing applications from end to end.
-- 🥅 2022 Goals: Learning Azure cloud platform
+- 🔭 I'm currently working with Encora innovation
+- 👯 I have work on developing applications from end to end
 - 📫 How to reach me: <a href="scharde20293@gmail.com" target="_blank">scharde20293@gmail.com</a>
 
 ### :dizzy: Connect on Networks
